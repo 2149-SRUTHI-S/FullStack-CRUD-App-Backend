@@ -1,6 +1,6 @@
 package com.sruthi.FullStackCRUD;
                 
-import org.springframework.boot.SpringApplication; s
+import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;  
         
 @SpringBootApplication    
