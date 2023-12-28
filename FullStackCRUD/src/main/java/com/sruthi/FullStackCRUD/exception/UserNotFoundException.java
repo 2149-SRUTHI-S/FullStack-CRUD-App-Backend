@@ -1,4 +1,4 @@
-package com.sruthi.FullStackCRUD.exception;   
+package com.sruthi.FullStackCRUD.exception;    
    
 public class UserNotFoundException extends RuntimeException{
 
