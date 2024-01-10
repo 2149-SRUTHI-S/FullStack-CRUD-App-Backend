@@ -1,4 +1,4 @@
-package com.sruthi.FullStackCRUD.model;    
+package com.sruthi.FullStackCRUD.model;     
              
            
 import javax.persistence.Entity;   
