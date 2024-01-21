@@ -1,4 +1,4 @@
-package com.sruthi.FullStackCRUD.controller;
+package com.sruthi.FullStackCRUD.controller;  
      
 import com.sruthi.FullStackCRUD.exception.UserNotFoundException;
 import com.sruthi.FullStackCRUD.model.User;
