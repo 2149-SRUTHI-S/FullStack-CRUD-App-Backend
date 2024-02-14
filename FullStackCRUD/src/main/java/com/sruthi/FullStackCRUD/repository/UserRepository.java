@@ -1,4 +1,4 @@
-package com.sruthi.FullStackCRUD.repository;
+package com.sruthi.FullStackCRUD.repository;  
                
 import com.sruthi.FullStackCRUD.model.User;    
 import org.springframework.data.jpa.repository.JpaRepository;       
